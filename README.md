@@ -43,27 +43,27 @@ The project directory is organized as follows:
 
 ## Screenshots
 
-![1](https://github.com/Ishika63/Graph-It/assets/80192358/277d84b5-03c1-44a4-8aaa-07b8c4d60a6c)
+![1](https://github.com/Ishika63/Graph-It/assets/80192358/8b84d8fa-21e6-41fb-8cc2-558f6b018893)
 
 
 Here are some screenshots of each chart type available in Graph It:
 
 ### Bar Chart
 
-![2](https://github.com/Ishika63/Graph-It/assets/80192358/01b94196-56e3-435b-8694-749e3b6ea297)
+![2](https://github.com/Ishika63/Graph-It/assets/80192358/94c12f8e-5b45-46d3-8519-5f7975b71774)
 
 
 ### Pie Chart
 
-![3](https://github.com/Ishika63/Graph-It/assets/80192358/a6ca0af6-8a3c-4ca4-a4e8-7c40128a411e)
+![3](https://github.com/Ishika63/Graph-It/assets/80192358/ac667de8-de5e-4dd9-9781-c43ed772b836)
 
 
 ### Line Chart
 
-![4](https://github.com/Ishika63/Graph-It/assets/80192358/d8fc1c26-9e5b-4da9-a86c-f577aa9395ab)
+![4](https://github.com/Ishika63/Graph-It/assets/80192358/f051010b-a73d-4e32-85b5-121657555b7d)
 
 
 ### Radar Chart
 
-![5](https://github.com/Ishika63/Graph-It/assets/80192358/e0b0bc50-a581-4f68-bf2d-814a7e6f43b0)
+![5](https://github.com/Ishika63/Graph-It/assets/80192358/8228b7d6-1cd5-43de-a2a8-412a96ac0bb2)
 
